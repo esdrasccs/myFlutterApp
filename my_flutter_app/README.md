@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-Primeiro projeto para estudo, feito atravez do botttcamp DIO - Santander Flutter.
+Primeiro projeto para estudo, feito atravez do bootcamp DIO - Santander Flutter.
